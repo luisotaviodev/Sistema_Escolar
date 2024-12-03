@@ -1,18 +1,16 @@
-## Getting Started
+# Sistema Escolar
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao projeto de Sistema Escolar! Este projeto foi desenvolvido para praticar e aprimorar meus conhecimentos na Linguagem Java. A aplicação simula o Cadastro de Alunos, Professores e Fechamento de Média.
 
-## Folder Structure
+## Como Usar o Sistema Escolar🤔
 
-The workspace contains two folders by default, where:
+Ao iniciar o Sistema irá abrir um Menu com as seguintes Opções:
+1. Cadastrar Aluno
+2. Cadastrar Professor
+3. Fechar Média dos Alunos
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Ao selecionar a opção de Cadastrar Aluno será solicitado os Dados do Aluno.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Ao Selecionar a opção de Cadastrar Professor será solicitado os Dados do Professor.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Ao Selecionar a opção de Fechar Média dos Alunos será impresso todos os Alunos Cadastrados e será Solicitado o Código do Aluno que deseja realizar o Fechamento da Média, após deverá informar a quantidade de Provas que teve naquele Bimestre, após isso o Sistema Identificará automaticamente se ele foi aprovado ou não.
